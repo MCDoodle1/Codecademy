@@ -1,0 +1,62 @@
+.navbar{
+    background-color: white;
+    position: fixed;
+    margin-top: 50px;
+    width: 100%;
+    top: 0;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+
+}
+
+.banner {
+    background-color: #4D00FF;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.gritter-section {
+    padding: 20px 50px;
+}
+
+.avatar {
+    background-image: url(../images/images.jpeg);
+    background-size: cover;
+    padding-right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#large-goofy {
+    height: 100px;
+    width: 100px;
+}
+
+#gooffer {
+    color: #4D00FF;
+    font-size: 100px;
+}
+
+#greets ul{
+    list-style-type: none;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
